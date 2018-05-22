@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\Debug\hw4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw4.map</FILE>
+  <FILE>hw4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>25</LINE></MAIN>
+  <Table><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>20</LINE></Table>
+  <CLK><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>128</LINE></CLK>
+  <USART><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>45</LINE></USART>
+  <LOOP><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>40</LINE></LOOP>
+  <IN_CHAR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>112</LINE></IN_CHAR>
+  <OUT_CHAR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>76</LINE></OUT_CHAR>
+  <COMPLETE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>87</LINE></COMPLETE>
+  <LOAD><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>93</LINE></LOAD>
+  <OUT_STRING><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>98</LINE></OUT_STRING>
+  <CONTINUE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>101</LINE></CONTINUE>
+  <RETURN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>108</LINE></RETURN>
+  <NOT><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>115</LINE></NOT>
+  <RECEIVE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>121</LINE></RECEIVE>
+  <NSTABLE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>133</LINE></NSTABLE>
+  <STABLE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\HW4\hw4\hw4\hw4d.asm</FILE><LINE>139</LINE></STABLE>
+ </LABELS>
+</ASSEMBLER_INFO>
